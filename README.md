@@ -21,13 +21,13 @@ https://greasyfork.org/en/scripts/19773-github-image-preview
 - github-baseUrl
 
 ```
-https://raw.githubusercontent.com/lhlyu/pb/master/2019
+https://raw.githubusercontent.com/lhlyu/pb/master/
 ```
 
 - cdn-baseUrl
 
 ```
-https://cdn.jsdelivr.net/gh/lhlyu/pb@master/2019
+https://cdn.jsdelivr.net/gh/lhlyu/pb@master/
 ```
 
 ### 一些免费的图片网站
